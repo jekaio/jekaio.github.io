@@ -4,10 +4,6 @@
     </div> -->
     <nav role="navigation">
         <ul class="summary">
-            
-
-            <li class="divider"></li>
-
             {% assign reversed_posts = site.posts | reverse %}
 
             {% for post in reversed_posts %}
@@ -26,8 +22,6 @@
                     {% endif %}
                 </li>
             {% endfor %}
-
-            <li class="divider"></li>
         </ul>
     </nav>
 </div>
