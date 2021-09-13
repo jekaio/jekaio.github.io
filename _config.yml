@@ -4,13 +4,13 @@ longtitle:        Гайд для 2TOP SQUAD
 author:           jeka_io
 email:            sighingnow@gmail.com
 description: >
-  Гайд для 2TOP SQUAD
+  asd
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://jekaio.github.io'
-baseurl:          '/'
+baseurl:          '/jekaio'
 rss:              RSS
 
 toc:
